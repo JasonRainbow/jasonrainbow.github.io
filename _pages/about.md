@@ -11,7 +11,9 @@ I'm currently pursuing the B.E. degree at the College of Information Science and
 
 News
 ======
-* [2024.9.30] Admitted to the School of Robotics of Hunan University as a recommended exam-free master student.
+* **[2024.9.30]** Admitted to the School of Robotics of Hunan University as a recommended exam-free master student.
+
+
 <!--
 A data-driven personal website
 ======
